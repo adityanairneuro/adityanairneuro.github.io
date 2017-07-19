@@ -29,9 +29,9 @@ h1 {
     text-align: center;
 }
 h2 {
-    font-size: 1em;
-    font-family: Georgia, serif;
-    text-align: center;
+    font-size: 0.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color:#D66A00;
 }
 p {
     font-size: 1.5em;
