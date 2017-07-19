@@ -4,7 +4,7 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 70px 0
     list-style: none;
     font-weight: bold;
     text-align: center;
@@ -14,6 +14,7 @@ nav ul li, footer ul li {
     margin: auto;
     text-align: center;
 }
+
 a {
     text-decoration: none;
     color: #999;
