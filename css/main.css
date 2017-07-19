@@ -4,11 +4,8 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 70px 0
-    list-style: none;
     font-weight: bold;
     text-align: center;
-    margin:0 0 20px 0;
 }
 nav ul li, footer ul li {
     display: inline;
