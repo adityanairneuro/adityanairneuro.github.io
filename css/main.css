@@ -8,7 +8,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     text-align: center;
-    margin:0 0 10px 0;
+    margin:0 0 20px 0;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -52,8 +52,7 @@ footer {
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+    margin: auto;
     text-align: center;
 }
 
