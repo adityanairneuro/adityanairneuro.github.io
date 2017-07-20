@@ -10,11 +10,11 @@ nav ul, footer ul {
 }
 .selected1
 {
-    background-color:#AD1457;
+    color:#AD1457;
 }
 .selected2
 {
-    background-color:#F57C00;
+    color:#F57C00;
 }
 nav ul li, footer ul li {
     display: inline;
