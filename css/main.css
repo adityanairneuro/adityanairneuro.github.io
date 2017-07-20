@@ -8,6 +8,14 @@ nav ul, footer ul {
     font-weight: bold;
     text-align: center;
 }
+.selected1
+{
+    background-color:#AD1457;
+}
+.selected2
+{
+    background-color:#F57C00;
+}
 nav ul li, footer ul li {
     display: inline;
     font-size: 1em;
