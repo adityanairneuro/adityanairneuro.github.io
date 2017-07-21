@@ -1,2 +1,5 @@
+name: Aditya Nair
+	markdown: kramdown
+  
 gems:
   - jekyll-seo-tag
