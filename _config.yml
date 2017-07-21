@@ -3,3 +3,14 @@ markdown: kramdown
   
 gems:
   - jekyll-seo-tag
+title: Aditya Nair
+description: Aditya Nair's personal webpage
+author: Aditya Nair
+social:
+  name: Aditya Nair
+  links:
+    - https://twitter.com/BenBalter
+    - https://www.facebook.com/ben.balter
+    - https://sg.linkedin.com/in/aditya-nair-680b6b74o
+    - https://plus.google.com/114128390400853112123
+    - https://github.com/adityanairneuro
