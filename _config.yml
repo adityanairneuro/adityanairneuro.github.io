@@ -14,3 +14,6 @@ social:
     - https://sg.linkedin.com/in/aditya-nair-680b6b74o
     - https://plus.google.com/114128390400853112123
     - https://github.com/adityanairneuro
+
+gems:
+  - jekyll-sitemap
