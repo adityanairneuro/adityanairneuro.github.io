@@ -16,6 +16,10 @@ nav ul, footer ul {
 {
     color:#F57C00;
 }
+.selected3
+{
+    color:#000080;
+}
 nav ul li, footer ul li {
     display: inline;
     font-size: 1em;
