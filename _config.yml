@@ -2,7 +2,6 @@ name: Aditya Nair
 markdown: kramdown
   
 gems:
-  - "github-pages", group: :jekyll_plugins
   - jekyll-seo-tag
 title: Aditya Nair
 description: Aditya Nair's personal webpage
