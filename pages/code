@@ -1,0 +1,32 @@
+---
+layout: default
+title: Aditya Nair
+---
+    		<div class="blurb">
+
+	<div class="btn-group d-flex" style="text-align:center" role="group" aria-label="...">
+  <a href="/index.html" style="font-size:23px" class="btn btn-default w-100">Home &nbsp</a>
+  <a href="https://scholar.google.com/citations?user=cOSBxdQAAAAJ&hl=en" style="font-size:23px" class="btn btn-default w-100">Publications &nbsp</a>
+  <a href="/pages/claustrum.html" style="font-size:23px" class="btn btn-default w-100">Claustrum &nbsp</a>
+  <a href="/pages/code.html" style="font-size:23px" class="btn btn-default w-100">Code &nbsp</a>
+
+					    
+</div>
+<br>
+
+<h1><a> href = "https://claustrum.shinyapps.io/classifier/">The Claustrum Classifier</a></h1>
+
+<p1>While at the Augustine Lab in Singapore, I created an online tool (based in R, using Shiny for GUIs) that automatically extracts electrophysiological data from files in the ABF format and applies a classifier trained to discern between 5 types of Claustrum neurons we determined using unsupervised methods</p1>
+ <img src="\CLA.png" alt="Logo" width = "220" height = "350" class="center2""  />	
+<br>
+<hr>
+<h1><a href = "https://adityanairneuro.github.io/silver-reconstructor/">AdReconstructor</a> and <a href = "https://adcount.shinyapps.io/online/">AdCount</a></p1>
+<br>
+<p1>Motivated by the need to have methods that extract morphological data from neuronal and subcellular structures, I wrote AdCount while at the National Neuroscience Institute, Singapore with <a href = "http://www.lkcmedicine.ntu.edu.sg/aboutus/Faculty-and-Staff/Pages/Lim-Kah-Leong.aspx">Lim Kah Leong</a> to allows for easy extraction of mitochondrial morphology from confocal images</p1>
+<br>
+<br>
+<p1>During my undergraduate at the Karolinska Institute, I extended AdCount to enable automated reconstruction of neuronal morphology, to create AdReconstructor, based on the All-Path-Pruning algorithms written by the group of Hanchuan Peng at the Allen Institute for Brain Science</p1>
+			
+		</div>
+    		</div><!-- /.blurb -->
+		
