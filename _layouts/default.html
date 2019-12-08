@@ -14,12 +14,13 @@
   <body>
     <div class="wrapper">
       <header>
+
         <h1><a href="{{ "/" | absolute_url }}"> Aditya Nair</a></h1>
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          {% if site.logo %}
+          <img src="{{site.logo | \Adi_Nair.png}}" alt="Logo" />
         {% endif %}
-
+        
         <p>Graduate Student in Computation and Neural Systems at Caltech</p>
         
         <p><a href = "mailto: adi.nair@caltech.edu">&#128231 adi.nair@caltech.edu</a></p>
