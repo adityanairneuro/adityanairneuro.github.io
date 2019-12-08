@@ -4,7 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-seo-tag
 title: Aditya Nair
-description: Neuroscience Graduate Student
+description: Neuroscience Graduate Student at Caltech
 author: Aditya Nair
 social:
   name: Aditya Nair
