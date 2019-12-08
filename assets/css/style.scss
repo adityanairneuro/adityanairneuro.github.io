@@ -4,10 +4,11 @@
 @import "{{ site.theme }}";
 
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+display: table-cell;
+    height: 220px;
+    text-align: center;
+    width: 250px;
+    vertical-align: middle;
 }
 
 h1 {
