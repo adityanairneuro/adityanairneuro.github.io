@@ -50,8 +50,10 @@ p1 {
 }
 
 btn-group d-flex {
-
-text-align: center;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 
