@@ -4,11 +4,9 @@
 @import "{{ site.theme }}";
 
 .center {
-display: table-cell;
-    height: 220px;
-    text-align: center;
-    width: 250px;
-    vertical-align: middle;
+display: block;
+text-align: center;
+
 }
 
 h1 {
