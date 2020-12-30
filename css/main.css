@@ -71,3 +71,15 @@ ul.posts li {
     list-style: none;
     text-align: center;
 }
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
